@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherTime</string>
+    <string name="test">Test</string>
+    <string name="vlineDesc">Vertical Line</string>
+    <string name="hlineDesc">Horizontal Line</string>
+    <string name="raindropDesc">Raindrops for percipitation Chance</string>
+    <string name="Today">Today</string>
+    <string name="DayOfWeek">DayOWeek</string>
+    <string name="highTemp">High</string>
+    <string name="lowTemp">Low</string>
+    <string name="currentTemp">Cur</string>
+    <string name="percipitationChance">Chance</string>
+    <string name="wind">wind</string>
+    <string name="date">00/00</string>
+    <string name="notUpdated">Not Updated</string>
+    <string name="LocationServicesOff">Location services is disabled, please enable location services and restart the app.</string>
+</resources>
